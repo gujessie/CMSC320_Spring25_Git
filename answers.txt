@@ -4,3 +4,9 @@ Answer: A lot of careers in the realm of computer science utilize git as a
 deveoper's tool, so it is important for us, as students, to become 
 familiar with it.
  
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science could be applied to the firld of AI Research. For 
+example, over the winter, I had an internship at the FDA where I cleaned 
+data to make sure the AI models we were creating were based off of correct 
+and complete data. Good data (usually) leads to good models.
