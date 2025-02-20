@@ -10,3 +10,9 @@ Answer: Data science could be applied to the firld of AI Research. For
 example, over the winter, I had an internship at the FDA where I cleaned 
 data to make sure the AI models we were creating were based off of correct 
 and complete data. Good data (usually) leads to good models.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: In Git, merging combines branches while preserving history, while 
+rebasing rewrites history by moving commits to the beginning of another 
+branch. 
