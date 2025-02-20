@@ -1,0 +1,6 @@
+Q1: Why might we consider using Git?
+
+Answer: A lot of careers in the realm of computer science utilize git as a 
+deveoper's tool, so it is important for us, as students, to become 
+familiar with it.
+ 
